@@ -6,7 +6,7 @@
 
 ##  Estado  
 > ✅ Proyecto finalizado  
-> 💡 Mi primer proyecto de programación
+> 💡 Mi primer ejercicio de programación, para ALURA LATAM
 
 ---
 
